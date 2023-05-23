@@ -13,7 +13,9 @@ Token padrão para download (Versão 0.4.24): token_padrao.txt
 Github com Token padrão para download (Versão mais recente): https://github.com/relsi/web3-blockchain-classes/blob/main/token.sol
 
 https://metamask.io/​
+
 https://rpc.info/
+
 https://remix.ethereum.org/
  
 # Orientações Para a Entrega
